@@ -1,4 +1,3 @@
-<html>
 <?php
 /*******************************************************************
 * Glype is copyright and trademark 2007-2016 UpsideOut, Inc. d/b/a Glype
@@ -230,4 +229,3 @@ if ( ! empty($runCleanup) ) {
 
 }
 
-</html>
